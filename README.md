@@ -1,2 +1,1 @@
-# diceGame
-Dice game - vanilla JS
+# DiceGames
